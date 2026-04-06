@@ -1,0 +1,27 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern "L" with lattice pattern -->
+  <rect width="60" height="60" rx="12" fill="#007AFF"/>
+  
+  <!-- Stylized "L" made of connected nodes -->
+  <g transform="translate(15, 12)">
+    <!-- Vertical line of L -->
+    <circle cx="5" cy="5" r="2.5" fill="white"/>
+    <circle cx="5" cy="13" r="2.5" fill="white"/>
+    <circle cx="5" cy="21" r="2.5" fill="white"/>
+    <circle cx="5" cy="29" r="2.5" fill="white"/>
+    
+    <!-- Horizontal line of L -->
+    <circle cx="13" cy="29" r="2.5" fill="white"/>
+    <circle cx="21" cy="29" r="2.5" fill="white"/>
+    <circle cx="29" cy="29" r="2.5" fill="white"/>
+    
+    <!-- Connecting lines -->
+    <line x1="5" y1="5" x2="5" y2="29" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    <line x1="5" y1="29" x2="29" y2="29" stroke="white" stroke-width="2" stroke-linecap="round"/>
+    
+    <!-- Diagonal accent lines (lattice detail) -->
+    <line x1="5" y1="5" x2="13" y2="13" stroke="white" stroke-width="1.5" opacity="0.6" stroke-linecap="round"/>
+    <line x1="5" y1="13" x2="13" y2="21" stroke="white" stroke-width="1.5" opacity="0.6" stroke-linecap="round"/>
+    <line x1="13" y1="29" x2="21" y2="21" stroke="white" stroke-width="1.5" opacity="0.6" stroke-linecap="round"/>
+  </g>
+</svg>
