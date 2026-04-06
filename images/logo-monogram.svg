@@ -1,27 +1,154 @@
-<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="logo-monogram.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.9061563"
+     inkscape:cx="56.127874"
+     inkscape:cy="40.296935"
+     inkscape:window-width="1470"
+     inkscape:window-height="817"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11" />
   <!-- Modern "L" with lattice pattern -->
-  <rect width="60" height="60" rx="12" fill="#007AFF"/>
-  
+  <rect
+     width="60"
+     height="60"
+     rx="12"
+     fill="#007AFF"
+     id="rect1" />
   <!-- Stylized "L" made of connected nodes -->
-  <g transform="translate(15, 12)">
-    <!-- Vertical line of L -->
-    <circle cx="5" cy="5" r="2.5" fill="white"/>
-    <circle cx="5" cy="13" r="2.5" fill="white"/>
-    <circle cx="5" cy="21" r="2.5" fill="white"/>
-    <circle cx="5" cy="29" r="2.5" fill="white"/>
-    
-    <!-- Horizontal line of L -->
-    <circle cx="13" cy="29" r="2.5" fill="white"/>
-    <circle cx="21" cy="29" r="2.5" fill="white"/>
-    <circle cx="29" cy="29" r="2.5" fill="white"/>
-    
-    <!-- Connecting lines -->
-    <line x1="5" y1="5" x2="5" y2="29" stroke="white" stroke-width="2" stroke-linecap="round"/>
-    <line x1="5" y1="29" x2="29" y2="29" stroke="white" stroke-width="2" stroke-linecap="round"/>
-    
-    <!-- Diagonal accent lines (lattice detail) -->
-    <line x1="5" y1="5" x2="13" y2="13" stroke="white" stroke-width="1.5" opacity="0.6" stroke-linecap="round"/>
-    <line x1="5" y1="13" x2="13" y2="21" stroke="white" stroke-width="1.5" opacity="0.6" stroke-linecap="round"/>
-    <line x1="13" y1="29" x2="21" y2="21" stroke="white" stroke-width="1.5" opacity="0.6" stroke-linecap="round"/>
+  <g
+     id="g11"
+     transform="matrix(1.1587876,0,0,1.1587876,-79.0513,-52.399186)">
+    <circle
+       cx="78.52375"
+       cy="55.52375"
+       r="4.6753054"
+       fill="#007aff"
+       id="circle1"
+       style="fill:#ffffff;stroke-width:1.55844" />
+    <circle
+       cx="109.69245"
+       cy="55.52375"
+       r="4.6753054"
+       fill="#007aff"
+       id="circle2"
+       style="fill:#ffffff;stroke-width:1.55844" />
+    <circle
+       cx="78.52375"
+       cy="86.692451"
+       r="4.6753054"
+       fill="#007aff"
+       id="circle3"
+       style="fill:#ffffff;stroke-width:1.55844" />
+    <circle
+       cx="109.69245"
+       cy="86.692451"
+       r="4.6753054"
+       fill="#007aff"
+       id="circle4"
+       style="fill:#ffffff;stroke-width:1.55844" />
+    <circle
+       cx="94.108101"
+       cy="71.108101"
+       r="4.6753054"
+       fill="#007aff"
+       id="circle5"
+       style="fill:#ffffff;stroke-width:1.55844" />
+    <line
+       x1="78.52375"
+       y1="55.52375"
+       x2="109.69245"
+       y2="55.52375"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line5"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="78.52375"
+       y1="55.52375"
+       x2="78.52375"
+       y2="86.692451"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line6"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="109.69245"
+       y1="55.52375"
+       x2="109.69245"
+       y2="86.692451"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line7"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="78.52375"
+       y1="86.692451"
+       x2="109.69245"
+       y2="86.692451"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line8"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="78.52375"
+       y1="55.52375"
+       x2="94.108101"
+       y2="71.108101"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line9"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="109.69245"
+       y1="55.52375"
+       x2="94.108101"
+       y2="71.108101"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line10"
+       style="fill:#f9f9f9;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="78.52375"
+       y1="86.692451"
+       x2="94.108101"
+       y2="71.108101"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line11"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1" />
+    <line
+       x1="109.69245"
+       y1="86.692451"
+       x2="94.108101"
+       y2="71.108101"
+       stroke="#007aff"
+       stroke-width="3.11687"
+       id="line12"
+       style="fill:#f9f9f9;stroke:#ffffff;stroke-opacity:1" />
   </g>
 </svg>
