@@ -1034,6 +1034,10 @@ ul, ol {
     .hero-title {
         font-size: var(--font-size-5xl);
     }
+
+    .scroll-indicator {
+        display: none;
+    }
     
     .stats-grid {
         grid-template-columns: 1fr;
