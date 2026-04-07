@@ -731,7 +731,7 @@ ul, ol {
 
 .price-period {
     font-size: var(--font-size-lg);
-    color: var(--color-gray-500);
+    color: var(--color-gray-900);
 }
 
 /* Comparison Table */
